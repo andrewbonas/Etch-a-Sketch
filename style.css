@@ -12,6 +12,7 @@ button{
     margin: auto;
     border-radius: 5px;
     font-size: 20px;
+    font-family: monospace;
 }
 .grid{
     display: grid;
